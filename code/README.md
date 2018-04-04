@@ -71,8 +71,6 @@ To install Pajarito run the following code:
 Pkg.add("Pajarito")
 ```
 
-Pajarito requires the presence of a linear mixed integer programming (MIP) solver and a semidefinite programming (SDP). While Pajarito can use Cbc as a MIP solver, we recommend also installing a commercial MIP solver.  We include instructions to install an SDP solver and a commercial MIP solver in the following sections.
-
 ## 7. Install IJulia and Jupyter
 
 [Jupyter](http://jupyter.org) is a convenient notebook-based interface to present documents which interleave code, text, and equations. Example code will be available both in notebook and text-file format so Jupyter is not required for the demonstration.
@@ -89,7 +87,7 @@ using IJulia
 notebook()
 ```
 
-## OPTIONAL: Install a commercial MIP Solver
+## OPTIONAL: Install a commercial MIP solver
 
 We also recommend installing a commercial MIP solver, if one is available to you. The install instructions below assume you already have the corresponding binaries and license files installed in your system.
 
