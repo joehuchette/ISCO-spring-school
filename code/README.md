@@ -108,4 +108,8 @@ see [here](http://julialang.org/learning/).
 
 In particular, a good updated introduction to Julia is [David Sanders'](http://sistemas.fciencias.unam.mx/~dsanders/) Julia v0.6 [tutorial](https://github.com/dpsanders/julia_towards_1.0).
 
+Here's a nice [IJulia notebook](https://github.com/PhilChodrow/cos_2018/blob/master/6_julia_and_jump/intro-julia-jupyter.ipynb) to introduce Julia and Jupyter.
+
 The JuMP documentation is located [here](http://www.juliaopt.org/JuMP.jl/0.18/).
+
+Some of the notebooks used in this course are adapted from the [15.S60 Computing in Optimization and Statistics]() course at MIT, and from the ["Designing and Implementing Algorithms for Mixed-Integer Nonlinear Optimization"](https://github.com/juan-pablo-vielma/Dagstuhl-Seminar-18081) seminar at Dagstuhl.
